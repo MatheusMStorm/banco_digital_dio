@@ -1,5 +1,3 @@
-package model;
-
 import model.banco.Banco;
 import model.cliente.Cliente;
 import model.conta.ContaCorrente;
